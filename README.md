@@ -5,7 +5,7 @@ I am Ikram, a Cloud and DevOps engineer with passion for the business of the Clo
 I work with AWS, Terraform, Ansible, Python, Bash, CI/CD (with Gitlab and GitHub Actions) and Docker.
 
 
-- 🔭 I’m currently working on an CloudWatch-Lambda-SNS intergration which updates me regularly on the Might Arsenal's title challenge.
+- 🔭 I’m currently working on an CloudWatch-Lambda-SNS intergration to send me regular updates as the Might Arsenal march towards the title.
 - 🌱 I’m currently learning Kubernetes (CKAD alongside intergrations with EKS)
 - 👯 I’m looking to collaborate on anything which helps solve cumbersome admin tasks.
 - 💬 Ask me about my PhD dissertation which is almost finished ... 👀
