@@ -1,6 +1,6 @@
 Hi there, young scholars! 👋
 
-I am Ikram, a Cloud and DevOps engineer with passion for the business of the Cloud. I am interested in Infra - Cloud Infra or Web3 Infra, and whatever else comes on the market and has the potential to change how we compute and consume digital resources.
+I am Ikram, a Cloud and DevOps engineer with passion for the business of the Cloud. I am interested in Infra - Cloud, Web3 Infra, and whatever else comes on the market which has the potential to change how we compute and consume digital resources.
 
 I work with AWS, Terraform, Ansible, Python, Bash, CI/CD (with Gitlab and GitHub Actions) and Docker.
 
