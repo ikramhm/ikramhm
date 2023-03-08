@@ -1,16 +1,14 @@
-### Hi there 👋
+Hi there, young scholars! 👋
 
-<!--
-**ikramhm/ikramhm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Ikram, a Cloud and DevOps engineer with passion for the business of the Cloud.
 
-Here are some ideas to get you started:
+I work with AWS, Terraform, Ansible, Python, Bash, CI/CD (with Gitlab and GitHub Actions) and Docker.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on an CloudWatch-Lambda-SNS intergration which updates me regularly on the Might Arsenal's title challenge.
+- 🌱 I’m currently learning Kubernetes (CKAD alongside intergrations with EKS)
+- 👯 I’m looking to collaborate on anything which helps solve cumbersome admin tasks.
+- 💬 Ask me about my PhD dissertation which is almost finished ... 👀
+- 📫 How to reach me: LinkedIn?
+
+
